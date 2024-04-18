@@ -10,7 +10,7 @@
         <div class="text-subtitle1">{{ todaysDate }}</div>
       </div>
       <q-img
-        src="src\assets\mountain.jpg"
+        src="\images\mountain.jpg"
         class="header-image absolute-top"/>
     </q-header>
 
@@ -37,10 +37,10 @@ border-right: 1px solid #ddd">
           </q-item>
         </q-list>
       </q-scroll-area>
-      <q-img class="absolute-top" src="src\assets\mountain.jpg" style="height: 192px">
+      <q-img class="absolute-top" src="\images\mountain.jpg" style="height: 192px">
         <div class="absolute-bottom bg-transparent">
           <q-avatar size="56px" class="q-mb-sm">
-            <img src="src\assets\Avatar.jpg">
+            <img src="\images\Avatar.jpg">
           </q-avatar>
           <div class="text-weight-bold">Jane Doe</div>
         </div>
